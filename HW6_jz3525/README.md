@@ -2,7 +2,7 @@
 ## Assignment 1
 
 ## Assignment 2
-
+Group work with Asilayi Bahetibieke(ab8131), I did the ANOVA test and Correlation test while Asilayi finished the Logistic Regression test.
 ### ANOVA
 | Statistical Analyses  | IV(s) | IV type(s) | DV(s) | DV type(s) | Control Var | Control Var type | Question to be answered | H0 | alpha | link to paper |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23,3 +23,9 @@
 | Logistic Regression  | 1, BMI at 7 years  | Categorical  | 1, Odds Ratio for Obesity at 13 years  | Continuous  | 2, Birth Cohort, Gender  | Categorical  | Is the incident and persistance of obesity from age 7 to 13 causing the increasing prevalence of childhood obesity in Denmark?  | The increased persistence of obesity from 7 to 13 years old increase the prevalence of obesity at age 13 years old among boys and girls   | 0.05  | [Contributions of Incidence and Persistence to the Prevalence of Childhood Obesity during the Emerging Epidemic in Denmark](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042521)  |
 
 ![journal pone 0042521 g005](https://user-images.githubusercontent.com/10840545/47058655-f96f0380-d193-11e8-8ed0-ed6e518bb152.png)
+
+## Assignment 3
+I worked with Asilayi to reproduce the analysis of the Hard to Employ program in NY and completed the Z-test and Chi-square test.
+
+
+## Assignment 4
