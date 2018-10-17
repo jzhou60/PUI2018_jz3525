@@ -6,4 +6,4 @@
 ###     1. The data supports the project to a large extent. However, the sample size is biased towards women (value=1), because their count is double the number of male riders. It might be a good idea to use a dataset that is more representative to the gender distribution of bikers. Moreover, some other variables need to be controlled, such as the time of day at which the trip takes place, and the areas that bikers pass by (women can be more likely to avoid certain areas because of safety concerns.)
 
 ## c. chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or here, or Statistics in a Nutshell.
-###     1. The question is focusing on the correlation between a nominal variable(ind. var), and a continous one (dependent var.). So, we should use Pearson correlation test.
+###     1. The question is focusing on the difference/comparison between two nominal independent variables (men vs.women), on a continous dependent variable (Trip duration). So, we should use ANOVA test.
