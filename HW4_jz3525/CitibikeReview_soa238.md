@@ -1,0 +1,9 @@
+## a. verify that their Null and alternative hypotheses are formulated correctly
+###     1. The null Hypothesis is the statement in which we try to reject or falsify our idea. The question/idea wasn't stated, but would've been the following: Women ride the bike for a longer duration than men. In that case, the null hypothysis is correctly formulated in words, and the missing alternate hypothesis would be: The average trip duration of men is significantly less than of women's
+###     2. It would be simpler if the equation for Null hypothesis was H0: Trip duration(M) - Trip duration(W) >= 0, instead of (_$H_0$ : $W{\mathrm{total}} <= {M_{\mathrm{total}}}$). And, Ha: Trip duration(M) - Trip duration(W) < 0, instead of (_$H_0$ : $W{\mathrm{total}} > {M_{\mathrm{total}}}$)
+
+## b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test was not chosen yet)
+###     1. The data supports the project to a large extent. However, the sample size is biased towards women (value=1), because their count is double the number of male riders. It might be a good idea to use a dataset that is more representative to the gender distribution of bikers. Moreover, some other variables need to be controlled, such as the time of day at which the trip takes place, and the areas that bikers pass by (women can be more likely to avoid certain areas because of safety concerns.)
+
+## c. chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or here, or Statistics in a Nutshell.
+###     1. The question is focusing on the difference/comparison between two nominal independent variables (men vs.women), on a continous dependent variable (Trip duration). So, we should use ANOVA test.
