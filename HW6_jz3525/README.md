@@ -1,5 +1,8 @@
 # PUI2018 HW 6 session 2 (evening)
 ## Assignment 1
+
+### [Forked repository](https://github.com/jingxiaorobin/PUI2018_xj655/blob/master/HW4_xj655/HW4_Assignment2_Citibikes_Usertype_xj655.ipynb)
+
 ### 1. Verify the Null and Alternate Hypothesis
 I think it's really interesting to compare different types of customer. Personally, I've never thought about any possible difference on that. Very good point.
 The only thing I have question about is the Null hypothesis and Alternate hypothesis states "biking on weekends" whereas the following project was made based on biking on weekdays. To make the project result clearer, I suggest to change the Null hypothesis to "The proportion of subsriber biking on weekdays is the same or higher than the proportion of customer biking on weekdays", and change the Alternative hypothesis to "The proportion of subscriber biking on weekdays is lower than the proportion of customer biking on weekdays".
