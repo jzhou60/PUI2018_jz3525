@@ -39,5 +39,9 @@ Group work with Asilayi Bahetibieke(ab8131), I did the ANOVA test and Correlatio
 ## Assignment 3
 I worked with Asilayi to reproduce the analysis of the Hard to Employ program in NY and completed the Z-test and Chi-square test.
 
+[Assignment 3](https://github.com/jzhou60/PUI2018_jz3525/blob/master/HW6_jz3525/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb)
+
 ## Assignment 4
 I worked with Asilayi to split the 201502 citibike dataset into trips during the day and night, and conducted three different tests (K-S test, Pearson's test and Spearman's test) to show whether there are statistical differences between the tripduration of them.
+
+[Assignment 4](https://github.com/jzhou60/PUI2018_jz3525/blob/master/HW6_jz3525/citibikes_compare_distributions.ipynb)
